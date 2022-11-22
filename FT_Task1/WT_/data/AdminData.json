@@ -1,0 +1,15 @@
+{
+    "Admin": {
+        "Applicationdate" : "10/10/2022",
+        "Name": "Amena",
+        "Contnum": "01818116191",
+        "Email": "amena025@gmail.com",
+        "gender" : "female",
+        "companyname": "Baraz",
+        "companyaddress": "Dhaka",
+        "Jobposition": "Admin",
+        "Username": "admin012",
+        "Password": "amena12345",
+        "Cityofbirth": "Cumilla"
+    }
+}
